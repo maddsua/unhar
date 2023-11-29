@@ -1,0 +1,10 @@
+
+#include "inc/staticConfig.hpp"
+
+
+APPICON ICON "res\\appicon.ico"
+
+IMG_BANNER BITMAP "res\\banner.bmp"
+IMG_FILE BITMAP  "res\\icon_harfile.bmp"
+IMG_FOLDER BITMAP "res\\icon_folder.bmp"
+IMG_HELP BITMAP "res\\help.bmp"
